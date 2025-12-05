@@ -1,0 +1,6 @@
+Cromossomo: [241, 0.0425, 0.0088, 0.7251, 282] -> Acuracia: 89.4%, Loss: 0.0562
+Cromossomo: [200, 0.0595, 0.0028, 0.9062, 258] -> Acuracia: 88.2%, Loss: 0.0545
+Cromossomo: [235, 0.0515, 0.0018, 0.627, 230] -> Acuracia: 89.6%, Loss: 0.0285
+Cromossomo: [61, 0.0502, 0.001, 0.58, 107] -> Acuracia: 88.1%, Loss: 0.1623
+Cromossomo: [138, 0.076, 0.0066, 0.6944, 276] -> Acuracia: 88.7%, Loss: 0.0672
+
