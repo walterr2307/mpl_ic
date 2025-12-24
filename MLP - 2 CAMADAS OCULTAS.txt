@@ -1,0 +1,54 @@
+MLP - 2 CAMADAS OCULTAS
+
+1* Populacao:
+Genes: [2, 0.9054, 0.4377, 453, 35, 197] | Acurácia: 10.0% | Precisão: 1.0% | Recall: 10.0% | Loss: 30.0602 | Tempo: 45.30s | Média: 2.5%
+Genes: [2, 0.1968, 0.8879, 343, 53, 134] | Acurácia: 19.9% | Precisão: 4.1% | Recall: 19.9% | Loss: 4.872 | Tempo: 48.22s | Média: 8.7%
+Genes: [1, 0.7619, 0.848, 381, 85, 168] | Acurácia: 10.0% | Precisão: 1.0% | Recall: 10.0% | Loss: 2.4447 | Tempo: 50.86s | Média: 2.5%
+Genes: [3, 0.3423, 0.4335, 343, 217, 102] | Acurácia: 10.0% | Precisão: 1.0% | Recall: 10.0% | Loss: 2.308 | Tempo: 68.35s | Média: 2.5%
+Genes: [2, 0.3265, 0.7162, 185, 202, 36] | Acurácia: 10.0% | Precisão: 1.0% | Recall: 10.0% | Loss: 2.7956 | Tempo: 111.63s | Média: 2.5%
+Genes: [1, 0.6523, 0.5584, 182, 26, 115] | Acurácia: 19.8% | Precisão: 11.1% | Recall: 19.8% | Loss: 1.8472 | Tempo: 23.88s | Média: 15.7%
+
+Melhores Genes: [1, 0.6523, 0.5584, 182, 26, 115] | Acurácia: 19.8% | Precisão: 11.1% | Recall: 19.8% | Loss: 1.8472 | Tempo: 23.88s | Média: 15.7%
+
+2* Populacao:
+Genes: [2, 0.6523, 0.5584, 182, 53, 134] | Acurácia: 10.0% | Precisão: 1.0% | Recall: 10.0% | Loss: 27.3363 | Tempo: 47.55s | Média: 2.5%
+Genes: [1, 0.1968, 0.8879, 343, 156, 115] | Acurácia: 64.7% | Precisão: 60.2% | Recall: 64.7% | Loss: 1.1352 | Tempo: 85.16s | Média: 63.1%
+Genes: [1, 0.6523, 0.5584, 182, 26, 102] | Acurácia: 10.0% | Precisão: 1.0% | Recall: 10.0% | Loss: 2.3177 | Tempo: 22.13s | Média: 2.5%
+Genes: [1, 0.3423, 0.4674, 343, 217, 115] | Acurácia: 20.0% | Precisão: 4.9% | Recall: 20.0% | Loss: 2.2286 | Tempo: 87.75s | Média: 9.9%
+Genes: [2, 0.1968, 0.4335, 343, 53, 102] | Acurácia: 44.6% | Precisão: 32.5% | Recall: 44.6% | Loss: 1.8514 | Tempo: 40.64s | Média: 39.7%
+Genes: [3, 0.3423, 0.8879, 343, 217, 134] | Acurácia: 10.0% | Precisão: 1.0% | Recall: 10.0% | Loss: 2.3082 | Tempo: 70.62s | Média: 2.5%
+
+Melhores Genes: [1, 0.1968, 0.8879, 343, 156, 115] | Acurácia: 64.7% | Precisão: 60.2% | Recall: 64.7% | Loss: 1.1352 | Tempo: 85.16s | Média: 63.1%
+
+3* Populacao:
+Genes: [1, 0.4555, 0.4674, 327, 217, 115] | Acurácia: 17.2% | Precisão: 6.8% | Recall: 17.2% | Loss: 2.3352 | Tempo: 71.00s | Média: 11.4%
+Genes: [1, 0.1968, 0.8879, 343, 156, 115] | Acurácia: 60.3% | Precisão: 65.3% | Recall: 60.3% | Loss: 1.0564 | Tempo: 106.50s | Média: 61.9%
+Genes: [1, 0.6523, 0.5584, 182, 53, 134] | Acurácia: 26.8% | Precisão: 12.5% | Recall: 26.8% | Loss: 2.0127 | Tempo: 35.03s | Média: 19.4%
+Genes: [3, 0.1968, 0.8879, 343, 156, 133] | Acurácia: 10.0% | Precisão: 1.0% | Recall: 10.0% | Loss: 2.3071 | Tempo: 67.77s | Média: 2.5%
+Genes: [3, 0.1968, 0.4335, 343, 53, 102] | Acurácia: 10.0% | Precisão: 1.0% | Recall: 10.0% | Loss: 2.3119 | Tempo: 38.28s | Média: 2.5%
+Genes: [1, 0.3423, 0.4674, 343, 217, 115] | Acurácia: 19.9% | Precisão: 5.0% | Recall: 19.9% | Loss: 2.1404 | Tempo: 120.55s | Média: 10.0%
+
+Melhores Genes: [1, 0.1968, 0.8879, 343, 156, 115] | Acurácia: 64.7% | Precisão: 60.2% | Recall: 64.7% | Loss: 1.1352 | Tempo: 85.16s | Média: 63.1%
+
+4* Populacao:
+Genes: [1, 0.1968, 0.8879, 506, 156, 115] | Acurácia: 60.8% | Precisão: 54.0% | Recall: 60.8% | Loss: 1.032 | Tempo: 130.64s | Média: 58.4%
+Genes: [1, 0.4555, 0.4674, 343, 217, 153] | Acurácia: 13.2% | Precisão: 2.9% | Recall: 13.2% | Loss: 2.3269 | Tempo: 86.28s | Média: 6.0%
+Genes: [1, 0.6523, 0.5584, 182, 156, 115] | Acurácia: 10.0% | Precisão: 1.0% | Recall: 10.0% | Loss: 3.0658 | Tempo: 61.57s | Média: 2.5%
+Genes: [1, 0.1968, 0.0724, 343, 211, 134] | Acurácia: 33.6% | Precisão: 26.7% | Recall: 33.6% | Loss: 1.8162 | Tempo: 149.90s | Média: 30.9%
+Genes: [1, 0.1968, 0.8879, 343, 217, 115] | Acurácia: 47.9% | Precisão: 48.6% | Recall: 47.9% | Loss: 1.3935 | Tempo: 92.74s | Média: 48.1%
+Genes: [1, 0.3423, 0.4674, 343, 156, 60] | Acurácia: 26.2% | Precisão: 12.9% | Recall: 26.2% | Loss: 1.7906 | Tempo: 74.91s | Média: 19.5%
+
+Melhores Genes: [1, 0.1968, 0.8879, 343, 156, 115] | Acurácia: 64.7% | Precisão: 60.2% | Recall: 64.7% | Loss: 1.1352 | Tempo: 85.16s | Média: 63.1%
+
+5* Populacao:
+Genes: [1, 0.1968, 0.4231, 506, 156, 141] | Acurácia: 65.9% | Precisão: 67.8% | Recall: 65.9% | Loss: 0.9725 | Tempo: 94.07s | Média: 66.5%
+Genes: [0, 0.3423, 0.4674, 343, 156, 60] | Acurácia: 81.9% | Precisão: 82.2% | Recall: 81.9% | Loss: 0.6347 | Tempo: 53.28s | Média: 82.0%
+Genes: [1, 0.1968, 0.8879, 343, 156, 115] | Acurácia: 48.8% | Precisão: 45.3% | Recall: 48.8% | Loss: 1.3662 | Tempo: 77.94s | Média: 47.6%
+Genes: [1, 0.1968, 0.2664, 506, 217, 115] | Acurácia: 59.7% | Precisão: 46.4% | Recall: 59.7% | Loss: 1.1092 | Tempo: 147.52s | Média: 54.5%
+Genes: [1, 0.3423, 0.4674, 277, 156, 60] | Acurácia: 13.4% | Precisão: 2.6% | Recall: 13.4% | Loss: 1.9949 | Tempo: 58.69s | Média: 5.6%
+Genes: [1, 0.1968, 0.8879, 343, 217, 115] | Acurácia: 57.6% | Precisão: 53.5% | Recall: 57.6% | Loss: 1.2423 | Tempo: 119.05s | Média: 56.2%
+
+Melhores Genes: [0, 0.3423, 0.4674, 343, 156, 60] | Acurácia: 81.9% | Precisão: 82.2% | Recall: 81.9% | Loss: 0.6347 | Tempo: 53.28s | Média: 82.0%
+
+
+Performance no Teste -> Acuracia: 82.4%, Precisao: 82.7%, Recall: 82.4%, Media: 82.5%
